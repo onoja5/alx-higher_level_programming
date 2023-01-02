@@ -1,4 +1,4 @@
-re Classes and Objects
+# More Classes and Objects
 Project done during **Full Stack Software Engineering studies** at **ALX AFRICA**. It aims to learn about object oriented programming (OOP), Data Abstraction, Data Encapsulation, instances and classes attributes in **Python**.
 
 ## Technologies
